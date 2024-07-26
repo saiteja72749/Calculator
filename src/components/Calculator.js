@@ -20,6 +20,7 @@ function Calculator() {
   return (
     <div>
         <center className='bg'>
+        <h3 className='head'>CALCULATOR</h3>
         <input type='text' className='inp' value={value} 
         onChange={e=>setValue(e.target.value)}  
         placeholder='Enter the values' 

@@ -13,6 +13,10 @@
   padding: 10px;
 }
 
+.head{
+  color: rgb(3, 83, 9);
+}
+
 .bg{
   border: 1px solid #480774;
   font-size: 15px;
